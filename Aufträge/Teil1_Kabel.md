@@ -14,7 +14,8 @@
 - Switch ist verbunden mit Router, PC, Drucker,
 - Laptop etc ist per wireless verbunden
 - NAS SRV1 (Server)
-- SRV ist mit dem Router oder Switch verbunden
+- LAN (Local Area Network) -> Intranet
+- SRV ist mit dem Router oder Switch verbunden (über LAN)
 - Steckdose mit WAN Anschluss
 - WAN Anschluss ist über Glas oder Kupfer angeschlossen
 - -> WAN kostet (Wide Area Network)
@@ -133,10 +134,10 @@ Draht ist kostengünstig, aber anfällig für Störungen und hat eine begrenzte 
 - **Lösung**: Platzierung von Netzwerkgeräten in optimaler Position, um Hindernisse zu minimieren. Verwendung von Signalverstärkern oder Repeatern, um die Reichweite des Netzwerks zu erweitern.
 3. Überlastung des Netzwerks:
 - **Ursache**: Zu viele gleichzeitige Benutzer oder hoher Datenverkehr.
-- **Lösung**: Upgrade der Netzwerkinfrastruktur, um eine höhere Kapazität zu bieten. Verwendung von Quality of Service (QoS)-Mechanismen, um den Datenverkehr zu priorisieren und eine gleichmäßige Verteilung sicherzustellen.
+- **Lösung**: Upgrade der Netzwerkinfrastruktur, um eine höhere Kapazität zu bieten. Verwendung von Quality of Service (QoS)-Mechanismen, um den Datenverkehr zu priorisieren und eine gleichmässige Verteilung sicherzustellen.
 4. Sicherheitsbedrohungen:
 - **Ursache**: Malware, Viren, Hackerangriffe usw.
-- **Lösung**: Implementierung von Firewalls, Antivirensoftware und Verschlüsselungstechnologien, um die Sicherheit des Netzwerks zu gewährleisten. Regelmäßige Updates von Software und Sicherheitspatches.
+- **Lösung**: Implementierung von Firewalls, Antivirensoftware und Verschlüsselungstechnologien, um die Sicherheit des Netzwerks zu gewährleisten. Regelmässige Updates von Software und Sicherheitspatches.
 
 ---
 
@@ -229,6 +230,6 @@ Ethernetkabel werden in verschiedene Kabelkategorien eingeteilt, die den maximal
 
 **Zusammenfassung:** 
 
-Die UGV umfasst die logische und physische Verkabelung in einem Gebäude. Die logische Topologie zeigt die Verbindungen zwischen den Geräten, während der Verkabelungsplan den Aufbau der Verbindungen als UGV darstellt. Es ist wichtig, dass das logische Layout und der Verkabelungsplan in Bezug auf Anschlüsse und Beschriftungen übereinstimmen. Die Festinstallationen werden als UGV realisiert und verbinden Netzwerksteckdosen mit Patchkabeln. Die korrekte Verbindungsaufbau zwischen den Netzwerksteckdosen in der UGV ist von großer Bedeutung.
+Die UGV umfasst die logische und physische Verkabelung in einem Gebäude. Die logische Topologie zeigt die Verbindungen zwischen den Geräten, während der Verkabelungsplan den Aufbau der Verbindungen als UGV darstellt. Es ist wichtig, dass das logische Layout und der Verkabelungsplan in Bezug auf Anschlüsse und Beschriftungen übereinstimmen. Die Festinstallationen werden als UGV realisiert und verbinden Netzwerksteckdosen mit Patchkabeln. Die korrekte Verbindungsaufbau zwischen den Netzwerksteckdosen in der UGV ist von grosser Bedeutung.
 
 ![img](../images/ugv.jpg)
