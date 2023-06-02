@@ -96,3 +96,15 @@
 
 ---
 
+### Lichtwellenleiter-Auftrag: 
+- ISP-Anfrage:
+  - Angenommen, ich erkundige mich bei meinem ISP, Swisscom, ob an meinem Wohnort Glasfaser verfügbar ist und welche Übertragungsrate angeboten wird.
+  - Antwort des ISPs: Ja, an Ihrem Wohnort ist Glasfaser verfügbar mit einer Übertragungsrate von bis zu 1 Gbit/s. Ein Router wird mitgeliefert.
+- Evaluierung eines eigenen WAN-Routers:
+  - Angenommen, ich suche im Fachhandel nach einem WAN-Router mit WAN-seitigem Glasfaseranschluss.
+  - Spezifikationen des ausgewählten Routers:
+    - Ethernetstandard bzw. IEEE-Norm: Erfüllt den Standard IEEE 802.3.
+    - Maximal erreichbarer Datenübertragungsdurchsatz: Bis zu 10 Gbit/s.
+    - WAN-seitiger Steckertyp (Lichtwellenleiter): Unterstützt den Steckertyp LC.
+    - Kosten und Verfügbarkeit: Der Router kostet 200€ und ist sofort verfügbar.
+
