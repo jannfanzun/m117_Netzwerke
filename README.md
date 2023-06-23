@@ -26,3 +26,4 @@ Heute habe ich mich intensiv mit IP-Adressen und Subnetzmasken beschäftigt und 
 
 ---
 
+### 23.06.2023
