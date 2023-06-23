@@ -17,3 +17,12 @@ Heute habe ich gelernt, dass Funk- und Kabelverbindungen jeweils ihre eigenen Vo
 ### 09.06.2023
 
 Heute war ein anspruchsvoller und anstrengender Schultag für mich. Ich habe einiges über Subnetzmasken, Netzwerkadressen, Netz-ID, Host-ID und IP-Adressen gelernt. Es war nicht einfach, aber ich bin zufrieden mit meinem Fortschritt. Ich werde weiterhin hart arbeiten, um mein Verständnis in diesem Bereich zu vertiefen.
+
+---
+
+### 16.06.2023
+
+Heute habe ich mich intensiv mit IP-Adressen und Subnetzmasken beschäftigt und bin zufrieden mit meiner Arbeit. Ich konnte die Konzepte gut verstehen und anwenden. Meine Kenntnisse in diesem Bereich haben sich verbessert. Allerdings lief der Test nicht so gut wie erhofft. Ich werde meine Schwächen analysieren und daran arbeiten, um beim nächsten Mal besser abzuschneiden. Insgesamt war es ein produktiver Tag, trotz der Herausforderungen beim Test.
+
+---
+
