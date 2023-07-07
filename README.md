@@ -27,3 +27,11 @@ Heute habe ich mich intensiv mit IP-Adressen und Subnetzmasken beschäftigt und 
 ---
 
 ### 23.06.2023
+
+Heute war ein sehr intensiver Tag. Ich habe viel gelernt und die Arbeit an den IP-Adressen, Subnetz-Masken und Standartgateway ist mir sehr gut gelungen. Heute habe ich Probleme gehabt, bei den APIPA Adressen. Ich verstehe den Sinn dahinter nicht ganz. für die kommende Prüfung, muss ich mich dafür vorbereiten. Insgesamt war heute ein produktiver Tag.
+
+---
+
+### 30.06.2023
+
+Heute war ein guter Tag. Ich habe mich intensiv und konzentriert auf die LB2 vorbereitet. Heute hat sich meinen Knoten gelöst und ich habe Broadcastadressen, Standartgateway, Loopbackadressen und APIPA verstanden. Der Test ist mir mässig gelungen. Teils habe ich Probleme gehabt mit den OSI-Layer. Der Einstieg in die Sicherheit von Windows ist mir sehr gut gelungen, da ich bereits im ÜK 187 gehabt habe und mir das gefällt. Insgesamt war ein produktiver Tag.
