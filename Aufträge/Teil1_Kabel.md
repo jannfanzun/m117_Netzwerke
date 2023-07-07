@@ -1,4 +1,4 @@
-# Teil 1 Kabel
+# Teil 1 Kabel 💻
 
 ## Simplex/Unidirektional, Half-Duplex/Bidirektional, Duplex/Bidirektional
 

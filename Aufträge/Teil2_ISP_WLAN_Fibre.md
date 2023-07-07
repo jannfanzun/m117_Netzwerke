@@ -1,4 +1,4 @@
-# Teil 2 der Zugang ins Internet
+# Teil 2 der Zugang ins Internet 〽
 
 ## WWW (World Wide Web)
 

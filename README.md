@@ -35,3 +35,9 @@ Heute war ein sehr intensiver Tag. Ich habe viel gelernt und die Arbeit an den I
 ### 30.06.2023
 
 Heute war ein guter Tag. Ich habe mich intensiv und konzentriert auf die LB2 vorbereitet. Heute hat sich meinen Knoten gelöst und ich habe Broadcastadressen, Standartgateway, Loopbackadressen und APIPA verstanden. Der Test ist mir mässig gelungen. Teils habe ich Probleme gehabt mit den OSI-Layer. Der Einstieg in die Sicherheit von Windows ist mir sehr gut gelungen, da ich bereits im ÜK 187 gehabt habe und mir das gefällt. Insgesamt war ein produktiver Tag.
+
+---
+### 07.07.2023
+
+
+Heute Nachmittag hatte ich eine aufregende Lernerfahrung, als ich eine VM installierte und mehr über Speicher, Netzwerkadapter sowie Benutzer und Berechtigungen lernte. Es war erstaunlich zu sehen, wie all diese Komponenten zusammenarbeiten, um eine virtuelle Umgebung zu schaffen. Ich bin begeistert von den Möglichkeiten, die virtuelle Maschinen bieten, und freue mich darauf, meine neuen Kenntnisse in Zukunft anzuwenden.

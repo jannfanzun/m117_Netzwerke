@@ -1,4 +1,4 @@
-### Installation einer Windows-VM
+### Installation einer Windows-VM 🏁
 
 **Um eine Windows-Virtual Machine (VM) zu installieren, habe ich folgende Schritte durchgeführt:**
 
@@ -30,3 +30,11 @@
    - Anschließend habe ich die Benutzerkonten und deren Berechtigungen auf der VM getestet, um sicherzustellen, dass sie wie beabsichtigt funktionieren.
    - Zuletzt habe ich die Datei- und Druckerfreigaben überprüft, um sicherzustellen, dass die Berechtigungen ordnungsgemäß angewendet werden.
    - Ich habe alle durchgeführten Tests dokumentiert und die Ergebnisse festgehalten, um eventuelle Probleme zu identifizieren und zu beheben.
+
+---
+
+# Teil7 Praktische Umsetzung
+1. Zuerst machten wir unsere Planung, wie es im Handout auch hiess. Die Planung ist unter Übungen zu finden.
+2. Dann setzten wir unsere Planung um, um zu zeigen das wir es wirklich gemacht hatten, sind hier nun ein paar Screenshots.
+![img](../images/benutzer.png)
+![img](../images/gruppen.png)

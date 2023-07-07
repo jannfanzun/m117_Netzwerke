@@ -1,4 +1,4 @@
-# Teil 6 Benutzer Berechtigungen
+# Teil 6 Benutzer Berechtigungen 💣
 
 ## Praxis
 
